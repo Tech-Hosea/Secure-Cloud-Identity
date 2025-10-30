@@ -22,17 +22,17 @@ It showcases modern identity, device, and security management, following best pr
 
 | Phase | Description | Folder |
 |-------|-------------|--------|
-| 0 | Groups & Tenant Setup | [01_Groups_&_TenantSetup](01_Groups_&_TenantSetup/README.md) |
-| 1 | Tenant Prep & Licensing | [02_Tenant_Licensing](02_Tenant_Licensing/README.md) |
-| 2 | Intune MDM Automatic Enrollment | [03_Intune_Enrollment](03_Intune_Enrollment/README.md) |
-| 3 | Windows 11 Enrollment | [04_Win11_Enrollment](04_Win11_Enrollment/README.md) |
+| 0 | Groups & Tenant Setup | [01_Groups_&_TenantSetup](01_Groups_&_TenantSetup.md) |
+| 1 | Tenant Prep & Licensing | [02_Tenant_Licensing](02_Tenant_Licensing.md) |
+| 2 | Intune MDM Automatic Enrollment | [03_Intune_Enrollment](03_Intune_Enrollment.md) |
+| 3 | Windows 11 Enrollment | [04_Win11_Enrollment](04_Win11_Enrollment.md) |
 | 4 | iPhone BYOD & MAM | [05_iOS_MAM](05_iOS_MAM/README.md) |
-| 5 | Security Baselines & Hardening | [06_Security_Baseline](06_Security_Baseline/README.md) |
+| 5 | Security Baselines & Hardening | [06_Security_Baseline](06_Security_Baseline.md) |
 | 6 | Conditional Access | [07_ConditionalAccess](07_ConditionalAccess/README.md) |
 | 7 | MFA & SSPR | [08_MFA_SSPR](08_MFA_SSPR/README.md) |
-| 8 | Device Lifecycle & Runbooks | [09_Runbooks_Automation](09_Runbooks_Automation/README.md) |
-| 9 | Monitoring & SOC Reporting | [10_Monitoring_Sentinel](10_Monitoring_Sentinel/README.md) |
-| 10 | Pilot Results & Portfolio | [11_Pilot_Results](11_Pilot_Results/README.md) |
+| 8 | Device Lifecycle & Runbooks | [09_Runbooks_Automation](09_Runbooks_Automation.md) |
+| 9 | Monitoring & SOC Reporting | [10_Monitoring_Sentinel](10_Monitoring_Sentinel.md) |
+| 10 | Pilot Results & Portfolio | [11_Pilot_Results](11_Pilot_Results.md) |
 
 ---
 
