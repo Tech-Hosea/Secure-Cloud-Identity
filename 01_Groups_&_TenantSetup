@@ -25,3 +25,4 @@ Create enterprise-grade security groups and prepare tenant for staged pilot test
 ## Test Steps
 - Create temporary user and add to `GRP_Pilot_Intune_Users`
 - Confirm membership propagation in portal
+
