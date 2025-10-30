@@ -5,11 +5,13 @@ Create enterprise-grade security groups and prepare tenant for staged pilot test
 
 ## Screenshots
 1. **Group List**
+<img width="537" height="332" alt="Group LIst" src="https://github.com/user-attachments/assets/55873b46-9fc3-4156-9d27-bae55f1e03d6" />
 
    *Caption:* “Created structured security groups for pilot testing and role-based policy assignment.”
 
 2. **Group Members**
-   ![members_screenshot](members_screenshot.png)
+<img width="664" height="248" alt="Group Members" src="https://github.com/user-attachments/assets/1e34f3f9-c8ff-4e3c-8d01-adc0de33b177" />
+
    *Caption:* “Pilot Intune group containing test users with assigned licenses.”
 
 ## Notes
