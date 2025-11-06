@@ -31,8 +31,7 @@ It showcases modern identity, device, and security management, following best pr
 | 6 | Conditional Access | [07_ConditionalAccess](07_ConditionalAccess.md) |
 | 7 | MFA & SSPR | [08_MFA_SSPR](08_MFA_SSPR.md) |
 | 8 | Device Lifecycle & Runbooks | [09_Runbooks_Automation](09_Runbooks_Automation.md) |
-| 9 | Monitoring & SOC Reporting | [10_Monitoring_Sentinel](10_Monitoring_Sentinel.md) |
-| 10 | Pilot Results & Portfolio | [11_Pilot_Results](11_Pilot_Results.md) |
+
 
 ---
 
