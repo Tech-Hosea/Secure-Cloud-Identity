@@ -26,7 +26,7 @@ It showcases modern identity, device, and security management, following best pr
 | 1 | Tenant Prep & Licensing | [02_Tenant_Licensing](02_Tenant_Licensing.md) |
 | 2 | Intune MDM Automatic Enrollment | [03_Intune_Enrollment](03_Intune_Enrollment.md) |
 | 3 | Windows 11 Enrollment | [04_Win11_Enrollment](04_Win11_Enrollment.md) |
-| 4 | iPhone BYOD & MAM | [05_iOS_MAM](05_iOS_MAM/README.md) |
+| 4 | iPhone BYOD & MAM | [05_iOS_MAM](05_iOS_MAM.md) |
 | 5 | Security Baselines & Hardening | [06_Security_Baseline](06_Security_Baseline.md) |
 | 6 | Conditional Access | [07_ConditionalAccess](07_ConditionalAccess/README.md) |
 | 7 | MFA & SSPR | [08_MFA_SSPR](08_MFA_SSPR/README.md) |
