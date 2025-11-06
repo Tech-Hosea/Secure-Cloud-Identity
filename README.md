@@ -29,7 +29,7 @@ It showcases modern identity, device, and security management, following best pr
 | 4 | iPhone BYOD & MAM | [05_iOS_MAM](05_iOS_MAM.md) |
 | 5 | Security Baselines & Hardening | [06_Security_Baseline](06_Security_Baseline.md) |
 | 6 | Conditional Access | [07_ConditionalAccess](07_ConditionalAccess.md) |
-| 7 | MFA & SSPR | [08_MFA_SSPR](08_MFA_SSPR/README.md) |
+| 7 | MFA & SSPR | [08_MFA_SSPR](08_MFA_SSPR.md) |
 | 8 | Device Lifecycle & Runbooks | [09_Runbooks_Automation](09_Runbooks_Automation.md) |
 | 9 | Monitoring & SOC Reporting | [10_Monitoring_Sentinel](10_Monitoring_Sentinel.md) |
 | 10 | Pilot Results & Portfolio | [11_Pilot_Results](11_Pilot_Results.md) |
