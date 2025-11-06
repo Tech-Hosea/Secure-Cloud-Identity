@@ -7,12 +7,12 @@ Configure automatic enrollment scope, enrollment restrictions, and Autopilot bas
 1. **MDM User Scope**
 <img width="821" height="334" alt="MDM User Scope" src="https://github.com/user-attachments/assets/5e139b83-6b26-4143-b40b-07db83408be4" />
 
-*Caption:* “Scoped automatic enrollment to pilot Intune users.”
+ “Scoped automatic enrollment to pilot Intune users.”
 
 2. **Enrollment Restrictions**
   <img width="538" height="331" alt="Enrollment Restriction" src="https://github.com/user-attachments/assets/956fc9de-5de9-4d52-bbab-a58e8be707e1" />
  
-   *Caption:* “Defined platform restrictions to prevent unsupported devices from enrolling.”
+    “Defined platform restrictions to prevent unsupported devices from enrolling.”
 
 ## Notes
 - MDM scope: `GRP_Pilot_Intune_Users`
