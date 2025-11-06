@@ -9,6 +9,7 @@ It showcases modern identity, device, and security management, following best pr
 - Intune for endpoint security and compliance
 - Azure Log Analytics + Sentinel for monitoring
 - Power Automate for stale device automation
+<img width="415" height="228" alt="Screenshot 2025-11-06 140258" src="https://github.com/user-attachments/assets/6d3c86af-11b4-4a76-9606-26827e37f843" />
 
 **Key Outcomes**
 - 7 devices enrolled (Windows 11 & iOS)
